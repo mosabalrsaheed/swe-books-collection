@@ -1,3 +1,73 @@
 # Software Engineering Books Collection
 
 - My collection of software engineering books
+
+# Table of Contents
+
+- 📂 **AI**
+  - 📄 [Data Mining and Machine Learning in Cybersecurity.pdf](AI/Data%20Mining%20and%20Machine%20Learning%20in%20Cybersecurity.pdf)
+  - 📄 [Deep Learning In Security \- jishengwang.pdf](AI/Deep%20Learning%20In%20Security%20-%20jishengwang.pdf)
+  - 📄 [Machine Learning Cơ Bản.pdf](AI/Machine%20Learning%20Co%CC%9B%20Ba%CC%89n.pdf)
+  - 📄 [Machine Learning for hackers.pdf](AI/Machine%20Learning%20for%20hackers.pdf)
+  - 📄 [Machine Learning in Cyber Trust.pdf](AI/Machine%20Learning%20in%20Cyber%20Trust.pdf)
+  - 📄 [Mathematics for ML.pdf](AI/Mathematics%20for%20ML.pdf)
+- 📂 **C**
+  - 📄 [Learn C the Hard Way.pdf](C/Learn%20C%20the%20Hard%20Way.pdf)
+- 📂 **DS & Algorithms**
+  - 📄 [Cracking The Coding Interview 6th Edition.pdf](DS%20%26%20Algorithms/Cracking%20The%20Coding%20Interview%206th%20Edition.pdf)
+  - 📄 [Grokking algorithms illustrated programmers curious.pdf](DS%20%26%20Algorithms/Grokking%20algorithms%20illustrated%20programmers%20curious.pdf)
+  - 📄 [Skiena \- The Algorithm Design Manual.pdf](DS%20%26%20Algorithms/Skiena%20-%20The%20Algorithm%20Design%20Manual.pdf)
+  - 📄 [algorithms\-4th.pdf](DS%20%26%20Algorithms/algorithms-4th.pdf)
+- 📂 **Design Pattern**
+  - 📄 [Dive into Design Patterns.pdf](Design%20Pattern/Dive%20into%20Design%20Patterns.pdf)
+  - 📄 [Learning Patterns By Lydia Hallie & Addy Osmani.pdf](Design%20Pattern/Learning%20Patterns%20By%20Lydia%20Hallie%20%26%20Addy%20Osmani.pdf)
+- 📂 **DevOps**
+  - 📄 [GitOps and Kubernetes.pdf](DevOps/GitOps%20and%20Kubernetes.pdf)
+  - 📄 [Securing Devops.pdf](DevOps/Securing%20Devops.pdf)
+  - 📄 [The Phoenix Project A Novel about IT, DevOps, and Helping Your Business Win.pdf](DevOps/The%20Phoenix%20Project%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win.pdf)
+- 📂 **Go**
+  - 📄 [Go in Action.pdf](Go/Go%20in%20Action.pdf)
+- 📂 **JS**
+  - 📄 [Effective Javascript \- 68 Specific Ways To Harness The Power Of Javascript.pdf](JS/Effective%20Javascript%20-%2068%20Specific%20Ways%20To%20Harness%20The%20Power%20Of%20Javascript.pdf)
+  - 📄 [Eloquent Javascript.pdf](JS/Eloquent%20Javascript.pdf)
+  - 📄 [JS From ES5 to ESNext.pdf](JS/JS%20From%20ES5%20to%20ESNext.pdf)
+  - 📄 [JS The good parts.pdf](JS/JS%20The%20good%20parts.pdf)
+  - 📂 **Note for professional series**
+    - 📄 [Algorithms Notes For Professionals.pdf](JS/Note%20for%20professional%20series/Algorithms%20Notes%20For%20Professionals.pdf)
+    - 📄 [Bash Notes For Professionals.pdf](JS/Note%20for%20professional%20series/Bash%20Notes%20For%20Professionals.pdf)
+    - 📄 [CSS Notes For Professionals.pdf](JS/Note%20for%20professional%20series/CSS%20Notes%20For%20Professionals.pdf)
+    - 📄 [JavaScript Notes For Professionals.pdf](JS/Note%20for%20professional%20series/JavaScript%20Notes%20For%20Professionals.pdf)
+    - 📄 [Linux Notes For Professionals.pdf](JS/Note%20for%20professional%20series/Linux%20Notes%20For%20Professionals.pdf)
+    - 📄 [MongoDB Notes For Professionals.pdf](JS/Note%20for%20professional%20series/MongoDB%20Notes%20For%20Professionals.pdf)
+    - 📄 [NodeJS Notes For Professionals.pdf](JS/Note%20for%20professional%20series/NodeJS%20Notes%20For%20Professionals.pdf)
+    - 📄 [PowerShell Notes For Professionals.pdf](JS/Note%20for%20professional%20series/PowerShell%20Notes%20For%20Professionals.pdf)
+    - 📄 [ReactJS Notes For Professionals.pdf](JS/Note%20for%20professional%20series/ReactJS%20Notes%20For%20Professionals.pdf)
+    - 📄 [TypeScript Notes For Professionals.pdf](JS/Note%20for%20professional%20series/TypeScript%20Notes%20For%20Professionals.pdf)
+  - 📄 [Secrets of the javascript ninja.pdf](JS/Secrets%20of%20the%20javascript%20ninja.pdf)
+  - 📄 [Secure Your Node.js Web Application.pdf](JS/Secure%20Your%20Node.js%20Web%20Application.pdf)
+  - 📄 [You dont know about JS.pdf](JS/You%20dont%20know%20about%20JS.pdf)
+  - 📄 [express\-handbook.pdf](JS/express-handbook.pdf)
+  - 📄 [fullstack\-vue\-book\-r8.pdf](JS/fullstack-vue-book-r8.pdf)
+  - 📄 [javascript\-handbook.pdf](JS/javascript-handbook.pdf)
+  - 📄 [js\-cheatsheet.pdf](JS/js-cheatsheet.pdf)
+  - 📄 [multithreaded\-javascript\-concurrency\-beyond\-the\-event\-loop\-1098104439\-9781098104436.pdf](JS/multithreaded-javascript-concurrency-beyond-the-event-loop-1098104439-9781098104436.pdf)
+  - 📄 [node\-handbook.pdf](JS/node-handbook.pdf)
+  - 📄 [react\-handbook.pdf](JS/react-handbook.pdf)
+- 📂 **Java**
+  - 📄 [Head First Java 2nd Edition.pdf](Java/Head%20First%20Java%202nd%20Edition.pdf)
+  - 📄 [Joshua Bloch \- Effective Java (3rd) \- 2018.pdf](<Java/Joshua%20Bloch%20-%20Effective%20Java%20(3rd)%20-%202018.pdf>)
+  - 📄 [Spring Boot in Action.pdf](Java/Spring%20Boot%20in%20Action.pdf)
+- 📂 **Python**
+
+  - 📄 [Cracking codes with python.pdf](Python/Cracking%20codes%20with%20python.pdf)
+  - 📄 [Learn Python the Hard Way, 3rd Edition.pdf](Python/Learn%20Python%20the%20Hard%20Way%2C%203rd%20Edition.pdf)
+  - 📄 [Primer scientific programming python 5th.pdf](Python/Primer%20scientific%20programming%20python%205th.pdf)
+  - 📄 [Python very basic \- Vo Duy Tuan.pdf](Python/Python%20very%20basic%20-%20Vo%20Duy%20Tuan.pdf)
+
+- 📂 **Software Design**
+  - 📄 [Building Event\-Driven Microservices.pdf](Software%20Design/Building%20Event-Driven%20Microservices.pdf)
+  - 📄 [Building Secure & Reliable Systems Best Practices for Designing, Implementing and Maintaining Systems.pdf](Software%20Design/Building%20Secure%20%26%20Reliable%20Systems%20Best%20Practices%20for%20Designing%2C%20Implementing%20and%20Maintaining%20Systems.pdf)
+  - 📄 [Designing Data\-Intensive Applications.pdf](Software%20Design/Designing%20Data-Intensive%20Applications.pdf)
+  - 📄 [Fundamentals of Software Architecture.pdf](Software%20Design/Fundamentals%20of%20Software%20Architecture.pdf)
+  - 📄 [Production Ready Graphql.pdf](Software%20Design//Production%20Ready%20Graphql.pdf)
+  - 📄 [System Design \- The Big Archive \- ByteByteGo.pdf](Software%20Design/System%20Design%20-%20The%20Big%20Archive%20-%20ByteByteGo.pdf)
