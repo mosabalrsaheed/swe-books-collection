@@ -1,3 +1,3 @@
-# DevBookCollection
+# Software Engineering Books Collection
 
-- My collection of books related to software engineering
+- My collection of software engineering books
