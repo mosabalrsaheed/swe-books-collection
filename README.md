@@ -57,7 +57,7 @@
   - 📄 [fullstack\-vue\-book\-r8.pdf](JS/fullstack-vue-book-r8.pdf)
   - 📄 [javascript\-handbook.pdf](JS/javascript-handbook.pdf)
   - 📄 [js\-cheatsheet.pdf](JS/js-cheatsheet.pdf)
-  - 📄 [multithreaded\-javascript\-concurrency\-beyond\-the\-event\-loop\-1098104439\-9781098104436.pdf](JS/multithreaded-javascript-concurrency-beyond-the-event-loop-1098104439-9781098104436.pdf)
+  - 📄 [[Early Release] Multithreaded JavaScript - Concurrency Beyond The Event Loop.pdf](JS/%5BEarly%20Release%5D%20Multithreaded%20JavaScript%20-%20Concurrency%20Beyond%20The%20Event%20Loop.pdf)
   - 📄 [node\-handbook.pdf](JS/node-handbook.pdf)
   - 📄 [react\-handbook.pdf](JS/react-handbook.pdf)
 - 📂 **Java**
