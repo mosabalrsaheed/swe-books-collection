@@ -28,7 +28,6 @@
 - 📂 **Go**
   - 📄 [Go in Action.pdf](Go/Go%20in%20Action.pdf)
 - 📂 **JS**
-  - 📄 [Effective Javascript \- 68 Specific Ways To Harness The Power Of Javascript.pdf](JS/Effective%20Javascript%20-%2068%20Specific%20Ways%20To%20Harness%20The%20Power%20Of%20Javascript.pdf)
   - 📄 [Eloquent Javascript.pdf](JS/Eloquent%20Javascript.pdf)
   - 📄 [JS From ES5 to ESNext.pdf](JS/JS%20From%20ES5%20to%20ESNext.pdf)
   - 📄 [JS The good parts.pdf](JS/JS%20The%20good%20parts.pdf)
