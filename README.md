@@ -27,6 +27,8 @@
   - 📄 [The Phoenix Project A Novel about IT, DevOps, and Helping Your Business Win.pdf](DevOps/The%20Phoenix%20Project%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win.pdf)
 - 📂 **Go**
   - 📄 [Go in Action.pdf](Go/Go%20in%20Action.pdf)
+  - 📄 [Head First Go.pdf](Go/Head%20First%20Go.pdf)
+  - 📄 [Concurrency in Go.pdf](Go/Concurrency%20in%20Go.pdf)
 - 📂 **JS**
   - 📄 [Eloquent Javascript.pdf](JS/Eloquent%20Javascript.pdf)
   - 📄 [JS From ES5 to ESNext.pdf](JS/JS%20From%20ES5%20to%20ESNext.pdf)
@@ -42,9 +44,15 @@
     - 📄 [PowerShell Notes For Professionals.pdf](JS/Note%20for%20professional%20series/PowerShell%20Notes%20For%20Professionals.pdf)
     - 📄 [ReactJS Notes For Professionals.pdf](JS/Note%20for%20professional%20series/ReactJS%20Notes%20For%20Professionals.pdf)
     - 📄 [TypeScript Notes For Professionals.pdf](JS/Note%20for%20professional%20series/TypeScript%20Notes%20For%20Professionals.pdf)
+  - 📂 **Note for professional series**
+    - 📄 [You Don't Know JS - Up & Going.pdf](JS/You%20Don't%20Know%20JS/You%20Dont%20Know%20JS%20-%20Up%20and%20Going.pdf)
+    - 📄 [You Don't Know JS - Scope & Closures.pdf](JS/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20-%20Scope%20%26%20Closures.pdf)
+    - 📄 [You Don't Know JS - Object Prototypes.pdf](JS/You%20Don't%20Know%20JS/You%20Dont%20Know%20JS%20-%20Object%20Prototypes.pdf)
+    - 📄 [You Don't Know JS - Type & Grammar.pdf](JS/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20-%20Types%20%26%20Grammar.pdf)
+    - 📄 [You Don't Know JS - Async & Performance.pdf](JS/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20-%20Async%20%26%20Performance.pdf)
+    - 📄 [You Don't Know JS - ES6 & Beyond - Early Release.pdf](JS/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20-%20ES6%20%26%20Beyond.pdf)
   - 📄 [Secrets of the javascript ninja.pdf](JS/Secrets%20of%20the%20javascript%20ninja.pdf)
   - 📄 [Secure Your Node.js Web Application.pdf](JS/Secure%20Your%20Node.js%20Web%20Application.pdf)
-  - 📄 [You dont know about JS.pdf](JS/You%20dont%20know%20about%20JS.pdf)
   - 📄 [express\-handbook.pdf](JS/express-handbook.pdf)
   - 📄 [fullstack\-vue\-book\-r8.pdf](JS/fullstack-vue-book-r8.pdf)
   - 📄 [javascript\-handbook.pdf](JS/javascript-handbook.pdf)
